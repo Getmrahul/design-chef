@@ -1,9 +1,9 @@
 ---
-name: design-skill
+name: design-chef
 description: Design or substantially redesign websites, apps, screens, and interactive prototypes through visual references, user-approved layout choices, a concrete specification, and screenshot verification. For small styling fixes, apply only relevant quality checks.
 ---
 
-# Design Skill
+# Design Chef
 
 Use these instructions when designing or substantially redesigning a website, app, screen, or interactive prototype. Do not apply the full exploration workflow to tiny styling fixes.
 

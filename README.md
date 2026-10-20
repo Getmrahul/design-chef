@@ -1,4 +1,4 @@
-# Design Skill
+# Design Chef
 
 A reference-first design skill for Codex: choose a direction together, build it faithfully, and make the result easy to use.
 
@@ -31,8 +31,8 @@ See the [full-size references and design notes](references/visual-examples.md) f
 Clone the repository into your skills directory:
 
 ```sh
-git clone https://github.com/Getmrahul/design-skill.git \
-  "${CODEX_HOME:-$HOME/.codex}/skills/design-skill"
+git clone https://github.com/Getmrahul/design-chef.git \
+  "${CODEX_HOME:-$HOME/.codex}/skills/design-chef"
 ```
 
 If that destination already exists, review it before replacing or updating it.
@@ -40,23 +40,23 @@ If that destination already exists, review it before replacing or updating it.
 Then invoke the skill:
 
 ```text
-Use $design-skill to design this screen. Start with visual references,
+Use $design-chef to design this screen. Start with visual references,
 show three layout options, and help me choose one before building.
 ```
 
 For an existing direction:
 
 ```text
-Use $design-skill in Refine mode. Keep the approved layout.
+Use $design-chef in Refine mode. Keep the approved layout.
 Simplify the screen so the main action is obvious and optional details
 appear only when needed.
 ```
 
 ## Use as a project playbook
 
-Copy this repository's `SKILL.md` and `references/` into a folder such as `docs/design-skill/` in your project. Add this instruction to the project's `AGENTS.md`:
+Copy this repository's `SKILL.md` and `references/` into a folder such as `docs/design-chef/` in your project. Add this instruction to the project's `AGENTS.md`:
 
-> For design or substantial UI implementation tasks, read and follow `docs/design-skill/SKILL.md`. For minor CSS or component fixes, apply only the relevant quality and verification rules. Preserve the project's brand, design system, and approved decisions.
+> For design or substantial UI implementation tasks, read and follow `docs/design-chef/SKILL.md`. For minor CSS or component fixes, apply only the relevant quality and verification rules. Preserve the project's brand, design system, and approved decisions.
 
 ## Contents
 
