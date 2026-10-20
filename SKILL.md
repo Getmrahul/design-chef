@@ -58,6 +58,8 @@ Use available browsing, screenshot, and image-preview tools. If previews cannot 
 
 Use references as inspiration, not permission to copy a site's content, assets, or exact composition. Keep the set focused on the current decision. For a refinement with an approved reference, reuse it instead of restarting discovery.
 
+For examples produced with an earlier version of this skill, read [references/visual-examples.md](references/visual-examples.md) and inspect the relevant bundled screenshots. Use them when their principles fit the brief; they are starting points for discussion, not a mandatory aesthetic or a substitute for product-specific references. Their annotations distinguish useful choices from density and usability tradeoffs.
+
 ### 2. Define the design target
 
 Write a compact internal brief containing:

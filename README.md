@@ -15,6 +15,17 @@ For websites, apps, screens, and interactive prototypes. Small styling fixes use
 
 The workflow adapts to **Explore**, **Refine**, or **Ship**. An approved design does not need another round of alternatives. A useful dashboard does not need to become a one-button screen.
 
+## Visual references
+
+These examples were made with an earlier version of the skill, as shared in [Rahul's original post](https://x.com/rahulmfg/status/2112230521417949192). They show different ways to give a design character:
+
+| Rahul's portfolio | Maaa | Kofe Flow |
+| --- | --- | --- |
+| ![Portfolio with oversized contrasting typography, whitespace, and a blue paper plane](references/images/rahul-portfolio.png) | ![Maaa with a notch character, a centered headline, and platform download buttons](references/images/maaa.png) | ![Kofe Flow with a forest background, bold headline, and a large product preview](references/images/kofe-flow.png) |
+| Typography and whitespace | A focused message and character | Atmosphere and product context |
+
+See the [full-size references and design notes](references/visual-examples.md) for what to learn from each and what to reconsider. These are examples, not fixed templates or proof that every layout choice is ideal.
+
 ## Install for Codex
 
 Clone the repository into your skills directory:
@@ -51,6 +62,7 @@ Copy this repository's `SKILL.md` and `references/` into a folder such as `docs/
 
 - [SKILL.md](SKILL.md) — the complete design workflow.
 - [Simplicity examples](references/simplicity.md) — practical guidance for reducing overload without adding friction.
+- [Visual examples](references/visual-examples.md) — three supplied screenshots with strengths, tradeoffs, and source context.
 
 ## Origin
 
